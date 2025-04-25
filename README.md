@@ -1,6 +1,5 @@
-# Hi, I'm Aayush Pandya! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Cloud+Enthusiast+%7C+Tech Explorer)](https://git.io/typing-svg)
+<h2 align="center">Hey there! I'm Aayush Pandya 👋</h2>
+<h4 align="center">Software Developer • Cloud Enthusiast • Tech Explorer</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushpandya&label=Profile+Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
@@ -41,7 +40,7 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushpandya&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aayushpandya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpandya&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
