@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,aws,nodejs,docker,kubernetes,mysql,mongodb,postgresql,azure,git)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,aws,nodejs,docker,dotnet,html,materialui,mysql,mongodb,azure,git)
 
 ---
 
