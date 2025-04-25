@@ -40,7 +40,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aayushpandya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=aayushpandya&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /> -->
+  <img src="https://nirzak-streak-stats.vercel.app?user=aayushpandya&theme=tokyonight&card_width=300&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpandya&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
