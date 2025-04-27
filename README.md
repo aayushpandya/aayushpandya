@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Aayush Pandya 👋</h2>
+<h2 align="center">Hey there! I'm Aayush Pandya 👋 </h2>
 <h4 align="center">Software Developer • Cloud Enthusiast • Tech Explorer</h4>
 
 <p align="center">
