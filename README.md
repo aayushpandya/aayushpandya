@@ -7,7 +7,7 @@
 
 ---
 
-🔭 **Currently working as:** Freelance Software Developer @ [Finquest Consulting Services](https://finquestconsulting.in/)  
+🔭 **Currently working as:** Frontend Developer @ [CarbonCure Technologies](https://www.carboncure.com/)  
 🌱 **Learning:** Advanced Cloud Development, Serverless Architectures  
 💬 **Ask me about:** React, Next.js, AWS, Node.js, Python, .NET  
 📫 **Reach out to me:** [aayushypandya@gmail.com](mailto:aayushypandya@gmail.com)  
