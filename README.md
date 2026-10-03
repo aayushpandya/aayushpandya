@@ -6,8 +6,6 @@
 </p>
 
 ---
-
-🔭 **Currently working as:** Frontend Developer @ [CarbonCure Technologies](https://www.carboncure.com/)  
 🌱 **Learning:** Advanced Cloud Development, Serverless Architectures  
 💬 **Ask me about:** React, Next.js, AWS, Node.js, Python, .NET  
 📫 **Reach out to me:** [aayushypandya@gmail.com](mailto:aayushypandya@gmail.com)  
@@ -48,7 +46,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - 🚀 Build and launch my first SaaS side-project.
 - 🌍 Contribute to meaningful Open Source projects.
 - 🏎️ Combine my love for tech + Formula 1 into a fun data-driven project.
